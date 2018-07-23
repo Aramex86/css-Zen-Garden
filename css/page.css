@@ -1,0 +1,324 @@
+body{
+	background-color: #daede2;
+	font-family: "tablet-gothic", verdana, arial, sans-serif;
+}
+.wraper{
+    margin-right: auto;
+    /* margin-left: auto; */
+    max-width: 1000px;
+}
+.pagewrap{
+   position: relative;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 50px;
+}
+.bodywrap{
+   	height: 100%;
+    background-color: #daede2;
+    width: 100%;
+}
+.bluecontainer{
+	background-color: #77c4d3;
+    width: 1497px;
+    height: 3100px;
+    margin-right: auto;
+    margin-left: auto;
+    z-index: 20;
+    margin-bottom: 50px;
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+}
+.transparent{
+	height: 3150px;
+    width: 412px;
+    background-color: #333;
+    position: absolute;
+    top: 0px;
+    left: 1198px;
+    opacity: 0.9;
+
+}
+.yellow1{
+	width: 405px;
+    height: 1200px;
+    background-color: rgba(246,247,146,0.9);
+    position: absolute;
+    top: 124px;
+    left: 1124px;
+}
+.white1{
+	background-color: rgba(255,255,255,0.9);
+    width: 1035px;
+    height: 433px;
+    position: absolute;
+    top: 800px;
+    left:0;
+}
+.red{
+	background-color: rgba(234,46,73,0.9);
+    height: 660px;
+    width: 783px;
+    position: absolute;
+    top: 1402px;
+    left: 691px;
+}
+.white2{
+	height: 929px;
+    width: 954px;
+    background-color: rgba(255,255,255,0.9);
+    position: absolute;
+    left: 520px;
+    top: 2062px;
+}
+.white3{
+	height: 593px;
+    width: 350px;
+    background-color: rgba(255,255,255,0.9);
+    position: absolute;
+    left: 170px;
+    top: 2243px;
+}
+.yellow2{
+	height: 69px;
+    width: 673px;
+    background-color: rgba(246,247,146,0.9);
+    position: absolute;
+    left: 158px;
+    top: 2991px;
+}
+.red2{
+	width: 319px;
+    height: 74px;
+    background-color: #ea2e49;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.red2 h1{
+	color: white;
+    font-size: 32px;
+    padding: 17px;
+    font-family: helvetica ,sans-serif; 
+}
+.intro{
+	width: 902px;
+    height: 500px;
+    position: absolute;
+    top: 199px;
+    left: 50px;
+}
+.intro h2{
+	color: white;
+    font-family: arial ,sans-serif;
+    font-size: 8em;
+    font-weight: bold;
+}
+.text1blue{
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    width: 809px;
+    text-align: left;
+    line-height: 32px;
+}
+.text1blue p{
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+.text1blue abbr{
+   border-bottom: 2px dotted white;
+   text-decoration: none;
+}
+ hr{
+    border-color: #ea2e49;
+}
+.text1blue a {
+    text-decoration: none;
+    color:white;
+    border-bottom: 1px solid silver; 
+}
+.text1blue a:hover{
+    border-bottom: 1px solid red; 
+}
+.text2blue{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 1431px;
+    padding-left: 60px;
+}
+.text2blue p{
+    font-size: 22px;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    line-height: 30PX;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+}
+.text2blue h3{
+    font-size: 49px;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+    line-height: 1em;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    
+}
+.yellow1 h3{
+    font-size: 39px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    line-height: 1em;
+    padding: 20px 78px;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    padding-top: 60px;
+}
+.yellow1 ul{
+    padding-left: 50px;
+}
+.yellow1 a{
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    line-height: 40px;
+    border-bottom: 1px solid gray;
+}
+.yellow1 a:hover{
+    border-bottom: 1px solid red;
+}
+.yellow1 li {
+    font-size: 18px;
+    font-family: arial;
+    color: gray;
+      font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    font-weight: bold;
+}
+.yellow1 abbr{
+    text-decoration: none;
+    border-bottom: 2px dotted black;
+}
+.textwhite1{
+    width: 824px;
+    height: 433px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.textwhite1 h3{
+    margin-bottom: 24px;
+    font-size: 2.5em;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    
+}
+.textwhite1 p{
+    margin-bottom: 33px;
+    font-size: 1.3em;
+    line-height: 27px;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    
+}
+.textwhite1 a{
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px dotted black;
+}
+.textwhite1 abbr{
+    text-decoration: none;
+}
+.red h3{
+    margin-bottom: 24px;
+    font-size: 3.5em;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    padding-top: 77px;
+    padding-left: 70px;
+    color: white;
+}
+.red p{
+    margin-bottom: 33px;
+    font-size: 1.3em;
+    line-height: 27px;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    color: white;
+    padding: 0 69px;
+    font-weight: bold;
+}
+.white3 h3{
+     margin-bottom: 24px;
+    font-size: 3.5em;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    padding-top: 77px;
+    padding-left: 70px;
+    color: black;
+}
+.white3 p{
+  
+    font-size: 1.3em;
+    line-height: 27px;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    color: black;
+    padding: 0 69px;
+
+}
+.white2 h3{
+     margin-bottom: 24px;
+    font-size: 3.5em;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    padding-top: 77px;
+    padding-left: 70px;
+    color: black;
+}
+.white2 p{
+    font-size: 1.3em;
+    line-height: 27px;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    color: black;
+    padding: 0 69px;
+    margin-bottom: 20px;
+}
+.borderend p{
+    padding: 0;
+    width: 821px;
+    margin: 0 auto;
+    padding-top: 30px;
+    border-top: 1px solid red;
+}
+.yellow2 li{
+    display: inline-block;
+    padding-right: 20px;
+
+}
+.yellow2 ul{
+    padding-top: 25px;
+    padding-left:100px;
+}
+.yellow2 a{
+    color: black;
+    font-family: "tablet-gothic-condensed",
+ "arial narrow", arial, verdana, sans-serif;
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+    border-bottom: 1px solid gray;
+}
+.yellow2 a:hover{
+    border-bottom: 1px solid red;
+}
